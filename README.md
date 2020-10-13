@@ -8,10 +8,10 @@
   - [License](#license)
 
 ## Description
-This is a employee directory with React.
+This React application allows managers to quickly filter through non-sensitive data to find employees contact information.
 
 ## Deployed Site
-TBA
+https://secure-sea-80952.herokuapp.com/
 ![Home](public/app.png)
 
 ## Installation 
@@ -23,5 +23,6 @@ Run "npm start" in the terminal
 ## License
 MIT License
 Copyright (c) [2020] [Monica Rangel]
+
 ## Questions
 - Github: https://github.com/monicarangel95
