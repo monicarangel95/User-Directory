@@ -1,0 +1,11 @@
+form.search {
+  overflow: auto;
+  margin-bottom: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+form.search button[type="submit"] {
+  float: right;
+  margin-top: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
