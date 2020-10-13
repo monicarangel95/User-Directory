@@ -1,0 +1,19 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+td,
+th {
+  border: 1px solid rgb(80, 60, 63);
+  text-align: left;
+  padding: 8px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+tr:nth-child(even) {
+  background-color: white;
+  font-family: 'Montserrat', sans-serif;
+}
