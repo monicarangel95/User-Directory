@@ -12,7 +12,7 @@ This is a employee directory with React.
 
 ## Deployed Site
 TBA
-<!-- ![Home](public/icons/app.png) -->
+![Home](public/app.png)
 
 ## Installation 
 NPM Install 
