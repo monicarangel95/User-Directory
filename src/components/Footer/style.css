@@ -1,0 +1,17 @@
+.footer {
+  min-height: 30px;
+  background:palevioletred;
+  position: relative;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+
+}
+
+.footer span {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3px;
+  font-family: 'Montserrat', sans-serif;
+}
